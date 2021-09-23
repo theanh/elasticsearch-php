@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch/elasticsearch",
+  "name": "theanh/elasticsearch",
   "description": "PHP Client for Elasticsearch",
   "keywords": ["search","client", "elasticsearch"],
   "type": "library",
@@ -33,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Elasticsearch\\": "src/Elasticsearch/"
+      "TA\\Elasticsearch\\": "src/Elasticsearch/"
     }
   },
   "autoload-dev": {
